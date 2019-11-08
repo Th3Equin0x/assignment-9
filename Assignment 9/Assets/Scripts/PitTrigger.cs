@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * Stephen Gruver
+ * PitTrigger.cs
+ * Assignment09
+ * Handles trigger entry for the pits' trigger objects and applies an upward force to whaatever entered the trigger.
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

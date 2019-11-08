@@ -1,4 +1,12 @@
-﻿using System.Collections;
+﻿        /*
+		 * Stephen Gruver
+		 * DoorRay.cs
+		 * Assignment09
+		 * Produces a ray in front of the hinged door that applies a force to the door to open it while something is in front of the doorway.
+		 */
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
